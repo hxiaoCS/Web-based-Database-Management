@@ -1,0 +1,26 @@
+
+body{
+	width:800px;
+	margin: 3em auto;
+}
+
+h1{
+	font-family: 'Roboto', sans-serif;
+	margin-left: 7em;
+	font-size:3em;
+	color:#85200cff;
+}
+
+h2{
+	font-family: 'Roboto', sans-serif;
+	margin-left:6em;
+	margin-bottom:1em;
+	color:#85200cff;
+}
+
+figcaption {
+	font-family: 'Roboto', sans-serif;
+	float:left;
+	padding-left:6em;
+	padding-right:3em;
+}
